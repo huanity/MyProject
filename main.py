@@ -4,6 +4,7 @@ from config import *
 def plus():
     print(1 + 3)
     print(1 + 6)
+    print(1 + 9)
 
 
 def main():
