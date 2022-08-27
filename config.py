@@ -4,3 +4,4 @@
         Create Date   :    2022-08-26    19:07
 """
 USER_NAME = "Admin"
+ID = 12345
