@@ -2,7 +2,7 @@ from config import *
 
 
 def plus():
-    print(1 + 1)
+    print(1 + 3)
 
 
 def main():
