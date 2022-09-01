@@ -5,3 +5,4 @@
 """
 USER_NAME = "Admin"
 ID = 12345
+PHONE = 1221535
